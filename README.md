@@ -13,6 +13,6 @@ Skills: Power Query / Pivot Tables / DAX / Data Modeling / ETL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theSharthok)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Start of CuterCounter Code -->
-<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hmxookpo&nd=4&style=11" border="0" alt="visitor counter"></a>
+<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=huxookpq&nd=4&style=7" border="0" alt="website counter"></a>
 <!-- End of CuterCounter Code -->
 View Site
