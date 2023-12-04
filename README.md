@@ -12,7 +12,7 @@ Skills: Power Query / Pivot Tables / DAX / Data Modeling / ETL
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theSharthok)](https://github.com/anuraghazra/github-readme-stats)
-<!-- Start of CuterCounter Code -->
-<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=huxookpq&nd=4&style=7" border="0" alt="website counter"></a>
-<!-- End of CuterCounter Code -->
-View Site
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theSharthok&label=Profile%20Views&color=0e75b6&style=flat" alt="theSharthok" /> </p> 
+
+
+
