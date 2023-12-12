@@ -1,5 +1,6 @@
 ### Hi there 👋, this is Sharthok
-#### Data Analyst
+#### Data Analysis Enthusiast
+
 I am interested to working with various environments and tools of data analysis. And also keen to learned about emerging technology related to it.
 
 Skills: Power Query / Pivot Tables / DAX / Data Modeling / ETL
